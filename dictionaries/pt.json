@@ -1,0 +1,41 @@
+{
+  "page": {
+    "home": {
+      "hello": "Olá, eu sou o ",
+      "name": "Claudivan :)",
+      "job": "Desenvolvedor",
+      "front": "Front-End",
+      "back": "Back-End",
+      "mobile": "Mobile",
+      "contact": "Entrar em contato",
+      "message": "Sou um desenvolvedor transformando códigos em soluções, como transformar uma folha em um avião de papel pronto para voar.",
+      "email": "Clique aqui para copiar",
+      "copy": "Copiado!"
+    },
+    "about": {
+      "title": "Sobre mim",
+      "description": "Bacharelado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Desenvolvimento Full-Stack pela XP Educação. Atuo como Desenvolvedor Front-end, Back-end e Mobile, onde trabalho com aplicações JavaScript. Possuo conhecimentos sólidos em: HTML5, CSS3, JavaScript, ReactJS, React Native, Node.js, Git e outros. Busco, futuramente, ingressar no mundo Python."
+    },
+    "interested": {
+      "title": "Interessado? Vamos entrar em contato!",
+      "description": "Estou aberto a oportunidades freelance ou posição remota. Sinta-se à vontade para entrar em contato se precisar de ajuda em seu projeto paralelo/de código aberto. eu adoraria ajudar. Seja desenvolvendo uma página pessoal ou até mesmo aplicações mais complexas. Esteja atualizado e tenha um design inovador, juntos podemos fazer muito e ficar à frente. Tecnologia e meu conhecimento estão aqui para facilitar e oferecer mais..."
+    },
+    "projects": {
+      "titleweb": "Projetos Web",
+      "titlemobile": "Projetos Mobile"
+    },
+    "contact": {
+      "title": "Contato"
+    },
+    "socialmedia": {
+      "title": "Redes sociais"
+    },
+    "project": {
+      "btngit": "Ver projeto no GitHub",
+      "btnlink": "Acessar projeto",
+      "description": "Descrição",
+      "video": "Video do projeto",
+      "technologies": "Tecnologias usadas"
+    }
+  }
+}

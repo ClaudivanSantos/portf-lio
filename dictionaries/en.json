@@ -1,0 +1,41 @@
+{
+  "page": {
+    "home": {
+      "hello": "Hello, i'm the",
+      "name": "Claudivan :)",
+      "job": "Developer",
+      "front": "Front-End",
+      "back": "Back-End",
+      "mobile": "Mobile",
+      "contact": "Get in touch",
+      "message": "I'm a developer transforming codes into solutions, how to transform a sheet on a paper airplane ready to fly.",
+      "email": "Click here to copy",
+      "copy": "Copy!"
+    },
+    "about": {
+      "title": "About Me",
+      "description": "Bachelor's Degree in Systems Analysis and Development and Postgraduate Degree in Full-Stack Development from XP Educação. I work as a developer Front-end, Back-end and Mobile, where I work with JavaScript applications. I have solid knowledge in: HTML5, CSS3, JavaScript, ReactJS, React Native, Node.js, Git and others. I look forward to joining the world of Python in the future."
+    },
+    "interested": {
+      "title": "Interested? Lets Get In Touch!",
+      "description": "I'm open to freelance opportunities or remote position. Feel free to get in touch if you need help with your side/open source project. I would love to help. Whether developing a personal page or even more complex applications. Be up to date and have an innovative design, together we can do a lot and stay ahead. Technology and my knowledge are here to facilitate and offer more..."
+    },
+    "projects": {
+      "titleweb": "Projects Web",
+      "titlemobile": "Projects Mobile"
+    },
+    "socialmedia": {
+      "title": "Social media"
+    },
+    "contact": {
+      "title": "Contact"
+    },
+    "project": {
+      "btngit": "View project on GitHub",
+      "btnlink": "Access project",
+      "description": "Description",
+      "video": "Project video",
+      "technologies": "Used technologies"
+    }
+  }
+}

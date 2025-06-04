@@ -1,6 +1,6 @@
 import { Locale } from '@/i18n.config'
 import { getDictionary } from '@/lib/dictionary'
-import HomePage from './components/homePage'
+import dynamic from 'next/dynamic'
 
 export interface PageTypes {
   page: {
@@ -50,7 +50,9 @@ export default async function Home({
   params: { lang: Locale }
 }) {
   const { page } = await getDictionary(lang)
-  
+  const HomePage = dynamic(() => import('./components/homePage'), {
+    ssr: false,
+  })
 
   return (
     <div>

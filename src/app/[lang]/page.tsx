@@ -1,3 +1,5 @@
+'use client';
+
 import { Locale } from '@/i18n.config'
 import { getDictionary } from '@/lib/dictionary'
 import HomePage from './components/homePage'
